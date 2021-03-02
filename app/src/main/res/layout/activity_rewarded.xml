@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".InterstitialActivity">
+
+        <include
+            layout="@layout/game_layout" />
+
+<!--        <TextView-->
+<!--            android:id="@+id/tv"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Congrats!"-->
+<!--            android:textColor="@color/purple_500"-->
+<!--            android:textSize="40sp"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:visibility="gone"-->
+<!--            android:layout_marginTop="20dp"-->
+<!--            android:layout_marginStart="10dp"/>-->
+
+    </LinearLayout>
+</ScrollView>

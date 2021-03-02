@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guess Three</string>
+    <string name="ad_attribution">Ad</string>
+    <string name="interstitial">Interstitial</string>
+    <string name="banner">Banner</string>
+    <string name="Native">Native</string>
+    <string name="reward">Reward</string>
+    <string name="choose_the_button_below_to_start_the_game_n_nthen_find_and_press_all_and_only_the_yellow_buttons_to_win">Choose the button below to start the game.\n\nThen find and press all (and only) the yellow buttons to win!</string>
+    <string name="welcome">Welcome</string>
+    <string name="congrats">Congrats!</string>
+</resources>

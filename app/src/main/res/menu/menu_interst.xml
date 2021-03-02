@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ad_banner"
+        android:title="banner"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/ad_native"
+        android:title="native"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/ad_rewarded"
+        android:title="rewarded"
+        app:showAsAction="never" />
+</menu>
